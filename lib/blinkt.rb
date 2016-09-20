@@ -1,5 +1,5 @@
-# Ported from the Pimoroni Blinkt Python library (v 0.1.0)
-# - https://github.com/pimoroni/blinkt/tree/3c493b85745d8a850dce60a3933cc71a3b8aa789
+# Ported from the Pimoroni Blinkt Python library
+# - https://github.com/pimoroni/blinkt
 
 require 'rpi_gpio'
 
