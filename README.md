@@ -63,4 +63,4 @@ The Ruby Blinkt gem version corresponds to the Python lib versions in the follow
 
 | Ruby Gem Version | Python Lib Version |
 | ---------------- | ------------------ |
-| 0.0.1            | [0.1.0](https://github.com/pimoroni/blinkt/tree/3c493b85745d8a850dce60a3933cc71a3b8aa789)              |
+| 0.0.2            | [0.1.0](https://github.com/pimoroni/blinkt/tree/3c493b85745d8a850dce60a3933cc71a3b8aa789)              |

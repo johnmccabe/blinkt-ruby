@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = 'blinkt'
-  s.version     = '0.0.1'
-  s.date        = '2016-09-19'
+  s.version     = '0.0.2'
+  s.date        = '2016-09-20'
   s.summary     = 'Pimoroni Blinkt'
   s.description = 'Ruby Library for Blinkt; 8 APA102 LEDs for your Raspberry Pi https://shop.pimoroni.com/products/blinkt'
   s.authors     = ['John McCabe']
